@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dylancarter580
+- 👋 Hi, I’m @redneckcockroach
 - 👀 I’m interested in learning more about programming and AI applications
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects with others
